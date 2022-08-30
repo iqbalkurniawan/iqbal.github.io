@@ -16,8 +16,8 @@ p {
 }
 
 .about_me{
-    font-size: 15px;
-    line-height:25px;
+    font-size: 18px;
+    line-height:30px;
 }
 
 #heading {
@@ -25,6 +25,7 @@ p {
 	/* color: #673AB7; */
     color:black;
 	font-weight: bold;
+    margin-top:2%;
 }
 
 #msform {
